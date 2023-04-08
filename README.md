@@ -45,7 +45,7 @@ You can customize the automatic file organizer script to suit your needs by modi
 - **Folder names:** You can modify the folder names in the **file_types** dictionary to match your preferred folder names.
 
 ### Contributing:
-If you find any issues with the automatic file organizer script or have suggestions for improvement, feel free to open an issue or create a pull request on GitHub.
+If you find any issues with the automatic file organizer script or have suggestions for improvement, feel free to open an issue or create a pull request.
 
 ### License:
 This project is licensed under the MIT License - see the LICENSE file for details.
